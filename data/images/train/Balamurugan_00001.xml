@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>Balamurugan_00001.jpeg</filename>
+	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Balamurugan_00001.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Balamurugan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>244</ymin>
+			<xmax>559</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+</annotation>

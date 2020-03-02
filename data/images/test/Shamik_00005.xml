@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>Shamik_00005.jpeg</filename>
+	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Shamik_00005.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shamik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>323</ymin>
+			<xmax>657</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>Bala_00011.jpeg</filename>
+	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Bala_00011.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>282</ymin>
+			<xmax>515</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

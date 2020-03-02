@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>Sneha_00017.jpeg</filename>
+	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Sneha_00017.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sneha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>391</ymin>
+			<xmax>558</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>
