@@ -1,7 +1,7 @@
 <annotation>
-	<folder>new_images</folder>
+	<folder>train</folder>
 	<filename>Bala_00012.jpeg</filename>
-	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Bala_00012.jpeg</path>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\train\Bala_00012.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>119</xmin>
-			<ymin>66</ymin>
-			<xmax>491</xmax>
-			<ymax>619</ymax>
+			<xmin>21</xmin>
+			<ymin>41</ymin>
+			<xmax>576</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>256</ymin>
+			<xmax>449</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>299</ymin>
+			<xmax>419</xmax>
+			<ymax>531</ymax>
 		</bndbox>
 	</object>
 </annotation>

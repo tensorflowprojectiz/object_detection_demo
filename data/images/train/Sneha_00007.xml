@@ -1,7 +1,7 @@
 <annotation>
-	<folder>new_images</folder>
+	<folder>train</folder>
 	<filename>Sneha_00007.jpeg</filename>
-	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Sneha_00007.jpeg</path>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\train\Sneha_00007.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,33 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>209</xmin>
-			<ymin>378</ymin>
-			<xmax>549</xmax>
-			<ymax>719</ymax>
+			<ymin>355</ymin>
+			<xmax>540</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sneha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>99</ymin>
+			<xmax>626</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sneha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>59</ymin>
+			<xmax>689</xmax>
+			<ymax>831</ymax>
 		</bndbox>
 	</object>
 </annotation>
