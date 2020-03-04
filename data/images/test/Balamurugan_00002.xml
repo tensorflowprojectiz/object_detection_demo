@@ -1,7 +1,7 @@
 <annotation>
-	<folder>new_images</folder>
+	<folder>test</folder>
 	<filename>Balamurugan_00002.jpeg</filename>
-	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Balamurugan_00002.jpeg</path>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\test\Balamurugan_00002.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>121</xmin>
-			<ymin>35</ymin>
-			<xmax>616</xmax>
-			<ymax>800</ymax>
+			<xmin>151</xmin>
+			<ymin>322</ymin>
+			<xmax>542</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Balamurugan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>42</ymin>
+			<xmax>615</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Balamurugan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>11</ymin>
+			<xmax>688</xmax>
+			<ymax>894</ymax>
 		</bndbox>
 	</object>
 </annotation>

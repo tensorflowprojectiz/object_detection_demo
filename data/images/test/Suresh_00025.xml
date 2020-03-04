@@ -1,7 +1,7 @@
 <annotation>
-	<folder>new_images</folder>
+	<folder>test</folder>
 	<filename>Suresh_00025.jpeg</filename>
-	<path>D:\Tensorflow\02-Mar-2020\Images\new_images\Suresh_00025.jpeg</path>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\test\Suresh_00025.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,37 @@
 	<object>
 		<name>Suresh</name>
 		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>281</ymin>
+			<xmax>598</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Suresh</name>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>299</xmin>
-			<ymin>271</ymin>
+			<xmin>215</xmin>
+			<ymin>34</ymin>
 			<xmax>608</xmax>
-			<ymax>624</ymax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Suresh</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>5</ymin>
+			<xmax>608</xmax>
+			<ymax>704</ymax>
 		</bndbox>
 	</object>
 </annotation>

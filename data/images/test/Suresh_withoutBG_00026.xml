@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>Suresh_00026.jpeg</filename>
-	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\test\Suresh_00026.jpeg</path>
+	<filename>Suresh_withoutBG_00026.png</filename>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\test\Suresh_withoutBG_00026.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
