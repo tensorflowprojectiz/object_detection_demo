@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Suresh_00002.jpeg</filename>
-	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\train\Suresh_00002.jpeg</path>
+	<filename>Suresh_withoutBG_00009.png</filename>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\train\Suresh_withoutBG_00009.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>170</xmin>
-			<ymin>280</ymin>
-			<xmax>472</xmax>
-			<ymax>582</ymax>
+			<xmin>260</xmin>
+			<ymin>243</ymin>
+			<xmax>540</xmax>
+			<ymax>604</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>92</xmin>
-			<ymin>32</ymin>
-			<xmax>524</xmax>
-			<ymax>648</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Suresh</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>52</xmin>
-			<ymin>5</ymin>
+			<xmin>111</xmin>
+			<ymin>48</ymin>
 			<xmax>588</xmax>
-			<ymax>702</ymax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Suresh</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>1</ymin>
+			<xmax>604</xmax>
+			<ymax>693</ymax>
 		</bndbox>
 	</object>
 </annotation>

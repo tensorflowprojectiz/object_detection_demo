@@ -1,50 +1,50 @@
 <annotation>
 	<folder>train</folder>
-	<filename>Suresh_00002.jpeg</filename>
-	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\train\Suresh_00002.jpeg</path>
+	<filename>Sneha_withoutBG_00019.png</filename>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\train\Sneha_withoutBG_00019.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>608</width>
-		<height>704</height>
+		<width>720</width>
+		<height>848</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Suresh</name>
+		<name>Sneha</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>170</xmin>
-			<ymin>280</ymin>
-			<xmax>472</xmax>
-			<ymax>582</ymax>
+			<xmin>275</xmin>
+			<ymin>325</ymin>
+			<xmax>579</xmax>
+			<ymax>630</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Suresh</name>
+		<name>Sneha</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>92</xmin>
-			<ymin>32</ymin>
-			<xmax>524</xmax>
-			<ymax>648</ymax>
+			<xmin>48</xmin>
+			<ymin>173</ymin>
+			<xmax>623</xmax>
+			<ymax>704</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Suresh</name>
+		<name>Sneha</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>52</xmin>
-			<ymin>5</ymin>
-			<xmax>588</xmax>
-			<ymax>702</ymax>
+			<xmin>11</xmin>
+			<ymin>102</ymin>
+			<xmax>668</xmax>
+			<ymax>808</ymax>
 		</bndbox>
 	</object>
 </annotation>
