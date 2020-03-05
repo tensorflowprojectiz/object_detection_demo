@@ -1,50 +1,50 @@
 <annotation>
 	<folder>images</folder>
-	<filename>Balamurugan_00014.jpeg</filename>
-	<path>D:\Tensorflow\01_Object_Detection_Training_Data\To_be_Uploaded\data\images\Balamurugan_00014.jpeg</path>
+	<filename>Bala_Sridhar_Group_00006.jpeg</filename>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\To_be_Uploaded\data\images\Bala_Sridhar_Group_00006.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>720</width>
-		<height>1280</height>
+		<width>1280</width>
+		<height>720</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Balamurugan</name>
+		<name>Sridhar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
-			<ymin>427</ymin>
-			<xmax>398</xmax>
-			<ymax>731</ymax>
+			<xmin>528</xmin>
+			<ymin>197</ymin>
+			<xmax>676</xmax>
+			<ymax>378</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Balamurugan</name>
+		<name>Sridhar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>60</xmin>
-			<ymin>140</ymin>
-			<xmax>611</xmax>
-			<ymax>742</ymax>
+			<xmin>499</xmin>
+			<ymin>127</ymin>
+			<xmax>690</xmax>
+			<ymax>397</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Balamurugan</name>
+		<name>Sridhar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
-			<ymin>6</ymin>
-			<xmax>711</xmax>
-			<ymax>749</ymax>
+			<xmin>175</xmin>
+			<ymin>24</ymin>
+			<xmax>929</xmax>
+			<ymax>420</ymax>
 		</bndbox>
 	</object>
 </annotation>
