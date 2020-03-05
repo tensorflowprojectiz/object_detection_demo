@@ -1,13 +1,13 @@
 <annotation>
-	<folder>test</folder>
+	<folder>images</folder>
 	<filename>Balamurugan_00002.jpeg</filename>
-	<path>D:\Tensorflow\01_Object_Detection_Training_Data\data\images\test\Balamurugan_00002.jpeg</path>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\To_be_Uploaded\data\images\Balamurugan_00002.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>720</width>
-		<height>896</height>
+		<height>1280</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>151</xmin>
-			<ymin>322</ymin>
-			<xmax>542</xmax>
-			<ymax>733</ymax>
+			<xmin>198</xmin>
+			<ymin>381</ymin>
+			<xmax>461</xmax>
+			<ymax>631</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>119</xmin>
-			<ymin>42</ymin>
-			<xmax>615</xmax>
-			<ymax>817</ymax>
+			<xmin>165</xmin>
+			<ymin>191</ymin>
+			<xmax>502</xmax>
+			<ymax>682</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>11</ymin>
-			<xmax>688</xmax>
-			<ymax>894</ymax>
+			<xmin>54</xmin>
+			<ymin>56</ymin>
+			<xmax>657</xmax>
+			<ymax>687</ymax>
 		</bndbox>
 	</object>
 </annotation>

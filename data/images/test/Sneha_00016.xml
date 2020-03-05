@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>Sneha_00025.jpeg</filename>
-	<path>D:\Tensorflow\01_Object_Detection_Training_Data\To_be_Uploaded\data\images\Sneha_00025.jpeg</path>
+	<filename>Sneha_00016.jpeg</filename>
+	<path>D:\Tensorflow\01_Object_Detection_Training_Data\To_be_Uploaded\data\images\Sneha_00016.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>287</xmin>
-			<ymin>479</ymin>
-			<xmax>465</xmax>
-			<ymax>646</ymax>
+			<xmin>361</xmin>
+			<ymin>362</ymin>
+			<xmax>607</xmax>
+			<ymax>620</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>206</xmin>
-			<ymin>303</ymin>
-			<xmax>512</xmax>
+			<xmin>343</xmin>
+			<ymin>161</ymin>
+			<xmax>708</xmax>
 			<ymax>660</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>Sneha</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>79</xmin>
-			<ymin>83</ymin>
-			<xmax>653</xmax>
-			<ymax>673</ymax>
+			<xmin>279</xmin>
+			<ymin>2</ymin>
+			<xmax>720</xmax>
+			<ymax>694</ymax>
 		</bndbox>
 	</object>
 </annotation>
